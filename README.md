@@ -4,7 +4,7 @@ Yaptığım kitleri .rbxm dosyası olarak paylaşıyorum. Youtube ve tiktok üze
 ---- SSS (Sıkça Sorulan Sorular) ----
 
 1)
-S: İndirdiğim kiti nasıl Roblox Studio'ya eklerim?
+S: İndirdiğim kiti nasıl Roblox Studio'ya eklerim? \n
 C: .rbxm dosyasını Roblox Studionuza sürükleyin otomatik eklenecektir.
 
 2)
